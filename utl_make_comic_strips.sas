@@ -1,10 +1,16 @@
 Creating comic strips. Hand drawn graphs
 
-see
-https://matplotlib.org/xkcd/examples/showcase/xkcd.html
-
-see
+see my output
 https://www.dropbox.com/s/e011t9ibh81tnam/simple1.png?dl=0
+
+FOR GALLERY OF EXAMPLES
+
+https://goo.gl/JkAzZd
+https://www.google.com/search?q=PYTHON+XKCD+GALLERY&tbm=isch&tbo=
+u&source=univ&sa=X&ved=0ahUKEwjp8KG7hMrUAhVk7oMKHfY7Dy4Q7AkIYw&biw=1352&bih=812
+
+see original output
+https://matplotlib.org/xkcd/examples/showcase/xkcd.html
 
 
 HAVE  (this plot is a poor redition of the link above)
